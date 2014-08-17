@@ -1,0 +1,2 @@
+Spacing updated according to PEP8
+VerbsArray Changed to VerbsList in displayListOfVerbs
